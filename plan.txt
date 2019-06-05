@@ -1,0 +1,7 @@
+1 index.php
+2 admin.php
+- select
+- delete
+- обавить иру
+- Редактировать
+3 admin_abdate.php
